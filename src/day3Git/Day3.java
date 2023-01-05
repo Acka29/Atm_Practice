@@ -1,4 +1,4 @@
-package Day3Git;
+package day3Git;
 
 public class Day3 {
 
